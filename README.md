@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [FreelyEmail](https://github.com/Harshit107/FreelyEmail-API)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshit107/](https://github.com/Harshit107/)
 
