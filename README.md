@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **harshit107.in@gmail.com**
 
-- 📄 Know about my experiences [https://resume.harshit107.tech/](https://resume.harshit107.tech/)
+- 📄 Know about my experiences [https://harshit107.tech/](https://harshit107.tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
