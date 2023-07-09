@@ -1,7 +1,7 @@
 [![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://harshit107.tech)
 
 <h1 align="center">Hi 👋, I'm Harshit Keshari</h1>
-<h3 align="center">I love Building things that live on Internet</h3>
+<h3 align="center">I love Building things that live on the Internet!</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshit107&label=Profile%20views&color=0e75b6&style=flat" alt="harshit107" /> </p>
