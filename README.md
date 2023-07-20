@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshit107/](https://github.com/Harshit107/)
 
-- 💬 Ask me about **Android, NodeJs and Javascript**
+- 💬 Ask me about **Android, Java, NodeJs and Javascript**
 
 - 📫 How to reach me **harshit107.in@gmail.com**
 
