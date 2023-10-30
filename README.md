@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [MyCloudMate](https://github.com/Harshit107/MyCloudMate)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **NextJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Harshit107/](https://github.com/Harshit107/)
 
